@@ -57,7 +57,7 @@ This project is a mini PHP framework designed to follow the Model-View-Controlle
 1. Clone the Repository:
 
    ```sh
-   git clone https://github.com/davidrbh/mini_framework_PHP.git
+   git clone https://github.com/davidrbh/mini_framework.git
    ```
 2. Copy the project folder to your web server's root directory.
 3. Access the application via your browser at http://localhost/mini_framework.
